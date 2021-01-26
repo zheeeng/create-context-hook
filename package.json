@@ -9,5 +9,10 @@
   },
   "dependencies": {
     "@types/react": "^17.0.0"
-  }
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": "https://github.com/zheeeng/create-context-hook.git",
+  "author": "zheeeng <hi@zheeeng.me>"
 }
