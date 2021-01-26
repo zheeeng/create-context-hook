@@ -1,0 +1,13 @@
+{
+  "name": "create-context-hook",
+  "version": "0.0.1",
+  "description": "React state management tool",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.0"
+  }
+}
